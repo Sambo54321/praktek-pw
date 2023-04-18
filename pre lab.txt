@@ -1,0 +1,3 @@
+semantik artinya browser dan pengembang
+membuat pengguna untuk mudah mencari atau untuk menavigasi data/file yang banyak dengan mudah 
+<header>,<nav>,<main><article><figure><aside><P><section><footer>
