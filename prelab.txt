@@ -1,0 +1,4 @@
+1. Web adalah file yang berisi informasi terdiri dari tulisan,grafik,desain dan memiliki etika dalam fi website
+2.URI ADALAH UNIFORM RESOUECE INDENTIFIER YANG FUNGSINYA MENGIDENTIFIKASI DARI DALAM FOLDER,URL ADALAH UMIFORM RESOURCE LOCATION YANG FUNGSINYA MELOKASIKAN FILE KEDALAM FILE LOCATION
+ 3. <head>,<h1>,<br>
+ 
